@@ -1,0 +1,4 @@
+keyAlias      = <alias>
+keyPassword   = <keyPass>
+storeFile     = <pathOfKeystore>
+storePassword = <storePass
